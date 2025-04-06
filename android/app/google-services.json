@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870609517670",
+    "project_id": "news-bite-ai",
+    "storage_bucket": "news-bite-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870609517670:android:ebe917e20ce7b19ef681a7",
+        "android_client_info": {
+          "package_name": "com.example.news_bite_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870609517670-8t9e9vonoanp7t1q4ajrajgibq5eas6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FOnvkfZz3xBmzteEr_Amnf4WHkB0pvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870609517670-8t9e9vonoanp7t1q4ajrajgibq5eas6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
